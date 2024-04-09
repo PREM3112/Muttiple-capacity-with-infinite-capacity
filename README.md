@@ -23,6 +23,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+```
 Developed By : PREM.R
 Register Number : 212223240124
 
@@ -57,7 +58,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
+```
 ## Output :
 ![Screenshot 2024-04-09 100939](https://github.com/PREM3112/Muttiple-capacity-with-infinite-capacity/assets/145449383/216e3948-9cbb-4c2c-9812-dea515fe7781)
 
